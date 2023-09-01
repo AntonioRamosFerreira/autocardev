@@ -8,11 +8,13 @@ export default function Home(){
   //mock
   const filmes = [
     {
+      id: 1,
       titulo: "ONIX Chevrolet",
       nota: 9.8,
       poster: "https://quatrorodas.abril.com.br/wp-content/uploads/2019/11/hr_3955.cr2_.jpg?quality=70&strip=info"
     },
     {
+      id: 2,
       titulo: "KWID ZEN Renault",
       nota: 9.1,
       poster: "https://image1.mobiauto.com.br/images/api/images/v1.0/94918326/transform/fl_progressive,f_webp,q_95"
